@@ -2,4 +2,6 @@ html, body {
   font-family: raleway, Helvetica, Arial, sans-serif;
 }
 
-
+.stripe {
+    background-color: green;
+}
